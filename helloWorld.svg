@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="55%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                overflow: hidden; 
+                border-right: .10em solid #448adb; 
+                white-space: nowrap; 
+                letter-spacing: .15em; 
+                animation: 
+                    typing 2s steps(22),
+                    blink-caret .5s step-end infinite alternate;
+                font-family: monospace;
+                font-weight: 400;
+                color: var(--color-fg-default);
+            }
+
+            @keyframes typing {
+                from { width: 0 }
+                to { width: 100% }
+            }
+
+            @keyframes blink-caret {
+                from, to { border-color: transparent }
+                50% { border-color: #448adb }
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
