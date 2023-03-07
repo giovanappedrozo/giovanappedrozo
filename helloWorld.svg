@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="55%" height="100%">
+<svg fill="none" viewBox="0 0 220 50" width="220" height="50" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
@@ -12,7 +12,7 @@
                     blink-caret .5s step-end infinite alternate;
                 font-family: monospace;
                 font-weight: 400;
-                color: white;
+                color: red;
             }
 
             @keyframes typing {
