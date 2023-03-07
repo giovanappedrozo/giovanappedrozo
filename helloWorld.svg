@@ -12,6 +12,7 @@
                     blink-caret .5s step-end infinite alternate;
                 font-family: monospace;
                 font-weight: 400;
+                color: white;
             }
 
             @keyframes typing {
