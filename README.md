@@ -21,11 +21,18 @@ Eu sou a Giovana, tenho 19 anos, sou desenvolvedora front-end e apaixonada pela 
   <img src="https://emojis.slackmojis.com/emojis/images/1643514056/130/php.png?1643514056" width="30" />
   <img src="https://emojis.slackmojis.com/emojis/images/1643514422/3999/csharp.png?1643514422" width="30" />
   <img src="https://emojis.slackmojis.com/emojis/images/1643514064/198/postgresql.png?1643514064" width="30" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514462/4439/mysql.png?1643514462" width="30" />
   <img src="https://emojis.slackmojis.com/emojis/images/1643514760/7685/git.png?1643514760" width="30" />
   <img src="https://emojis.slackmojis.com/emojis/images/1643514236/2035/svn.png?1643514236" width="30" />
-
 </div>
 
+<h3>Estudando</h3>
+<div>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514044/32/python.png?1643514044" width="30" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514082/390/redux.png?1643514082" width="30" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514817/8322/figma.png?1643514817" width="30" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1645045595/53111/react_native.png?1645045595" width="30" />
+</div>
 
 <!--
 **giovanappedrozo/giovanappedrozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
