@@ -4,7 +4,7 @@
             <style>
             h1 {
                 overflow: hidden; 
-                border-right: .10em solid #448adb; 
+                border-right: .10em solid #D9DCD6; 
                 white-space: nowrap; 
                 letter-spacing: .15em; 
                 animation: 
@@ -12,7 +12,7 @@
                     blink-caret .5s step-end infinite alternate;
                 font-family: monospace;
                 font-weight: 400;
-                color: red;
+                color: #81C3D7;
             }
 
             @keyframes typing {
@@ -22,7 +22,7 @@
 
             @keyframes blink-caret {
                 from, to { border-color: transparent }
-                50% { border-color: #448adb }
+                50% { border-color: #D9DCD6 }
             }
             </style>
             <h1>HELLO WORLD!</h1>
