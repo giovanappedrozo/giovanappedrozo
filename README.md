@@ -1,6 +1,6 @@
 <img src="https://github.com/giovanappedrozo/giovanappedrozo/blob/main/helloWorld.svg" alt="Hello world!" />
 
-Eu sou a Giovana, tenho 19 anos, sou desenvolvedora front-end e apaixonada pela arte do back-end também!
+Eu sou a Giovana, tenho 20 anos, sou desenvolvedora front-end e apaixonada pela arte do back-end também!
 
 <h2>Hard skills</h2>
 <h3>Front-end</h3>
